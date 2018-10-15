@@ -4,13 +4,15 @@
   "description": "A repository where we demo the license checker GitHub App",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "newthing": "fjdkslafd"
   },
   "author": "Wilhelm Klopp",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
     "helmet": "^3.14.0",
+    "bootstrap": "latest",
     "named-regexp": "^0.1.1",
     "pg": "^7.5.0",
     "query-string": "^6.2.0"
