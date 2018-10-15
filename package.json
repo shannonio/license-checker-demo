@@ -4,7 +4,8 @@
   "description": "A repository where we demo the license checker GitHub App",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "newthing": "fjdkslafd"
   },
   "author": "Wilhelm Klopp",
   "license": "ISC",
